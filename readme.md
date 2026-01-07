@@ -12,6 +12,7 @@ requests
 ```
 
 **Setup & Activate**
+
 Setting up the virtual environment (Linux):
 
 ```cmd
