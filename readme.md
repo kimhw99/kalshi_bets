@@ -1,6 +1,8 @@
-# Using RL for BTC price forecasts
+# BTC Price Prediction with RL
 
-This model uses PPO to predict future BTC prices and make bets on their outcomes on the Kalshi Demo API. This project was made for educational purposes only, and should not be used as a tool for investing or gambling real money.
+This model uses PPO to predict future BTC prices and make bets on their outcomes on the Kalshi Demo API. 
+
+This project was made for educational purposes only, and should not be used as a tool for investing or gambling real money.
 
 **Package Dependencies**
 
